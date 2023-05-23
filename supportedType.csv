@@ -1,0 +1,6 @@
+image,.jpg,.jpeg,.jfif,.pjpeg,.pjp,.png,.gif,.webp,.svg,.apng,.avif,.psd,.ico,
+video,.webm,.TS,.mov,.mp4,.m4p,.m4v,.mkv,
+audio,.acc,.m4a,.m4b,.m4p,.mp3,.wav,
+document,.doc,.docx,.pdf,.rtf,.txt,.odt,.ppt,.pptx,.pps,.tex,.xls,.xlsm,.xlsx,
+compressed,.7z,.rar,.zip,
+executable,.apk,.bat,.exe,.jar,.py,.msi,
